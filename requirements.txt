@@ -1,0 +1,16 @@
+# for RL models
+numpy
+torch 
+torchvision 
+torchaudio
+scipy
+gym
+tqdm
+
+# for map generation
+matplotlib
+requests
+qwikidata
+osmium
+geopandas
+pandas
